@@ -69,7 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-#AgriVenture
+# AgriVenture
+
+
 ![Home](https://github.com/Sarthaak02/Agriventure/assets/104676747/3459245f-f074-46f4-a358-efece5c10565)
 ![About](https://github.com/Sarthaak02/Agriventure/assets/104676747/f25e875a-57c1-4f71-b48c-fb7ede1e2e22)
 ![Features](https://github.com/Sarthaak02/Agriventure/assets/104676747/922aa795-2de7-4735-8142-28a6b7dff59b)
